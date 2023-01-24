@@ -1,4 +1,4 @@
-@@ -1,4 +1,4 @@
+
 
 
 </br>
@@ -49,4 +49,4 @@ Tenho 33 anos, moro em Recife/PE e sou apaixonada por programação ! Sou inicia
 </div>
 </br>
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AlineLucen/AlineLucen/blob/output/github-contribution-grid-snake.svg)
