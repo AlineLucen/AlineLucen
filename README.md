@@ -1,31 +1,7 @@
+##  Hello! Welcome to my Github profile. My name is Miliana Rocha
 
+Tecnologias
 
-
-</br>
-</br>
-<div dsplay="inline-block">
- 
- <h1 align="left">Aline Lcena</h1>
- <a href="https://www.instagram.com/aline_lucen/">
-    <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
-  </a> 
-  <a href="https://twitter.com/alineadslucena">
-    <img align="left" width="80px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
-  </a>
-  <a href="https:www.linkedin.com/in/alinelucenaads">
-    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
-  </a>
-</div>
-</br>
-</br>
-## Hello, Devs!!
-Tenho 33 anos, moro em Recife/PE e sou apaixonada por programação ! Sou iniciante no universo da programação, 
- quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!  ❤
-<p align="center">
-  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
-</p>
-
-### 🖥️ Tecnologias e Ferramentas: 
 <div align="center"> 
 <br>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" height="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50" height="50" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>  
@@ -38,15 +14,36 @@ Tenho 33 anos, moro em Recife/PE e sou apaixonada por programação ! Sou inicia
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="50" height="50" />
                            
 </div>
+<hr>
 
-</br>
-</br>
-<div display="inline-block">
- 
- <p align="left">📚 Tenho estudado Java e tem sido a minha nova linguagem favorita rsrsrsr;</p>
-
- <p align="left">☕🎮 sou a louca do café, mas quando os bugs ficam difíceis corro para um cházinho.</p>
-</div>
-</br>
 
 ![Snake animation](https://github.com/AlineLucen/AlineLucen/blob/output/github-contribution-grid-snake.svg)
+
+
+<div align="center">
+<a href="https://github.com/AlineLucen
+         ">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milianar16&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Milianar16&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+  
+ <hr>
+ 
+ <div align="center">
+   <br>
+   <a href = "mailto:alineadslucena@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"   target="_blank"></a>
+   <a href="https://www.linkedin.com/in/alinelucenaads/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <br>
+ </div>
+
+<br>
+<div style="display: inline_block">
+  <div align="center" >
+    <p width="100">🎓 Transição de carreira; </p>                
+    <p width="100"> 📚 Finalizei o Bootcamp Java Full Stack de 4 meses da SoulCode Academy;</p>              
+  </div>
+  
+ <br/>
+</div>
+
